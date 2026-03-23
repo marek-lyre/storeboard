@@ -4,7 +4,7 @@ A live e-commerce dashboard that fetches real data from [smart-mock.com](https:/
 
 [**→ Live demo**](https://smart-mock.com/demo/storeboard)
 
-\---
+---
 
 ## What it is
 
@@ -17,7 +17,7 @@ Works in two modes:
 |**Mock**|Runs immediately with generated data. No account needed.|
 |**Live**|Enter your smart-mock `user\_id` + token → fetches your real tables.|
 
-\---
+---
 
 ## Quickstart
 
@@ -51,7 +51,7 @@ Paste your `user\_id` and `smt\_` token into the config bar at the top of the da
 
 Your data. Live. No backend.
 
-\---
+---
 
 ## How it works
 
@@ -74,13 +74,13 @@ GET https://smart-mock.com/users/{user\_id}/tables/customers?token={smt\_token}
 
 No proxy. No server. Just fetch.
 
-\---
+---
 
 ## Screenshot
 
-!\[StoreBoard dashboard](assets/screenshot.png)
+![StoreBoard dashboard](assets/screenshot.png)
 
-\---
+---
 
 ## Customize it
 
@@ -90,7 +90,7 @@ Want different tables? Change the fetch URLs and column names in the `renderAll(
 
 Want a different domain? Swap `products/orders/customers` for `users/sessions/events` and you have a SaaS metrics dashboard. Same idea, different tables.
 
-\---
+---
 
 ## Built with
 
@@ -98,7 +98,7 @@ Want a different domain? Swap `products/orders/customers` for `users/sessions/ev
 * Vanilla HTML/CSS/JS — zero dependencies
 * `Share Tech Mono` + `DM Sans` — Google Fonts
 
-\---
+---
 
 ## License
 
